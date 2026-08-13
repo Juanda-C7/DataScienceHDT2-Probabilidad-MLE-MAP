@@ -1,0 +1,13 @@
+{
+  "fuente": "Open-Meteo (ERA5 archive)",
+  "url": "https://archive-api.open-meteo.com/v1/archive",
+  "rango_fechas": "2026-05-01 a 2026-07-31",
+  "fecha_descarga": "2026-08-13 13:28",
+  "filas": 92,
+  "variables": [
+    "time",
+    "temperature_2m_max",
+    "precipitation_sum",
+    "llovio"
+  ]
+}
